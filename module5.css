@@ -1,0 +1,14 @@
+.parent {
+    padding: 10px;
+    background-color: bisque;
+    display: flex;
+}
+.child {
+    border: 2px solid rgb(96, 163, 32);
+    background-color: rgb(179, 228, 229);
+    margin: 10px 0;
+    padding: 5px;
+    font-size: 28px;
+    text-align: center;
+   
+}
